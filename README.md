@@ -107,10 +107,10 @@ Enter row, column, number of seats: 3 2 2
 
 **Avinash**  
 B.Tech CSE | 3rd Year  
-Passionate about software engineering and systems development.
+PES University
 
 ---
 
 ## 📃 License
 
-This project is open-source and free to use for educational purposes.
+This project is open-source and free to use.
